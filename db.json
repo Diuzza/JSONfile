@@ -1,4 +1,4 @@
-[
+{"posts":[
 {"id": 1,
 "name": "Fontanella 1",
 "latitude": "12.7684",
@@ -14,4 +14,4 @@
 "latitude": "41.5652745",
 "Longitude": "13.4155324"
 }
-]
+]}
