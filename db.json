@@ -1,17 +1,17 @@
 {"posts":[
 {"Id": 1,
 "Name": "Fontanella 1",
-"Latitude": "12.7684",
-"Longitude": "1.9885"
+"Latitude": 12.7684,
+"Longitude": 1.9885
 },
 {"Id": 2,
 "Name": "Fontanella 2",
-"Latitude": "45.465454",
-"Longitude": "9.186516"
+"Latitude": 45.465454,
+"Longitude": 9.186516
 },
 {"Id": 3,
 "Name": "Fontanella 3",
-"Latitude": "41.5652745",
-"Longitude": "13.4155324"
+"Latitude": 41.5652745,
+"Longitude": 13.4155324
 }
 ]}
