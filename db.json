@@ -1,17 +1,17 @@
 {"posts":[
-{"id": 1,
-"name": "Fontanella 1",
-"latitude": "12.7684",
+{"Id": 1,
+"Name": "Fontanella 1",
+"Latitude": "12.7684",
 "Longitude": "1.9885"
 },
-{"id": 2,
-"name": "Fontanella 2",
-"latitude": "45.465454",
+{"Id": 2,
+"Name": "Fontanella 2",
+"Latitude": "45.465454",
 "Longitude": "9.186516"
 },
-{"id": 3,
-"name": "Fontanella 3",
-"latitude": "41.5652745",
+{"Id": 3,
+"Name": "Fontanella 3",
+"Latitude": "41.5652745",
 "Longitude": "13.4155324"
 }
 ]}
